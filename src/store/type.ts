@@ -1,0 +1,4 @@
+interface commonState {}
+export {
+  commonState
+}
